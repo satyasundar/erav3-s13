@@ -1,0 +1,145 @@
+Resolving data files: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 104/104 [00:00<00:00, 130.63it/s]
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 104/104 [00:00<00:00, 329213.30it/s]
+Epoch 1/5
+Step 5000, Loss: 1.4199, LR: 5.86e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence
+Temperature: 0.7
+Generated: The future of artificial intelligence intelligence intelligence intelligence intelligence intelligence intelligence intelligence intelligence intelligence scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared scared CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP CP tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping
+
+Prompt: The most important thing in life
+Temperature: 0.7
+Generated: The most important thing in life life life life life life life life life life life life life life life life life lifeWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHWHumanumanumanuman
+
+Prompt: The best way to learn programming
+Temperature: 0.7
+Generated: The best way to learn programming programming programming programming programming programming programming programming programming programming programming programming programming detached detached detached detached detached detached detached detached detached detached detached detached detached detached detached detached detachedangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoangoango
+
+Prompt: The future of artificial intelligence
+Temperature: 1.0
+Generated: The future of artificial intelligence intelligence intelligence intelligence intelligence intelligence intelligence intelligence rises rises rises risessemblesemblesemblesemblesemblesemblesemblesemblesemblesemblesembleukkahukkahukkahukkahukkahukkahukkahukkahukkahukkahukkahukkahukkahukkahukkahBurBurBurBurBurBurBurBurBur Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki Kiki replace replace replace replace replace replace replace replace refreshing refreshing refreshing refreshing refreshinghealinghealinghealinghealinghealinghealinghealinghealinghealing
+
+Prompt: The most important thing in life
+Temperature: 1.0
+Generated: The most important thing in life life life life life life life life life life life life births births births births birthstagetagetagetagetagetagetagetagetagetagetagetagetagetagetage Yard pharmacists pharmacists pharmacists pharmacists pharmacists pharmacists pharmacists pharmacists pharmacists pharmacists spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoons spoonsadjust elective elective elective elective elective elective elective elective elective elective elective elective elective elective elective
+
+Prompt: The best way to learn programming
+Temperature: 1.0
+Generated: The best way to learn programming programming programming programming programming programming programming programming Probably Probably Probably Probably Reality Reality Reality Reality Reality Reality Reality Reality Reality Reality Reality Reality Reality Reality Reality Reality Reality Reality Napoleonic Napoleonic Napoleonic Napoleonic Napoleonic Napoleonic Napoleonic Napoleonic Napoleonic Napoleonic Napoleonic fallopian fallopian discrepancies discrepancies discrepancies rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle rifle Powder Powder Powder Powder Hypertension Stan Stan Stan Stan Stan Stanrrrrrrrrrrrrrrrrrrrrr
+
+=== End of Samples ===
+
+Step 5010, Loss: 1.4408, LR: 5.84e-05
+Step 5020, Loss: 1.4242, LR: 5.83e-05
+Step 5030, Loss: 1.4373, LR: 5.81e-05
+Step 5040, Loss: 1.4436, LR: 5.79e-05
+Step 5050, Loss: 1.4252, LR: 5.77e-05
+Step 5060, Loss: 1.4573, LR: 5.76e-05
+Step 5070, Loss: 1.4549, LR: 5.74e-05
+Step 5080, Loss: 1.4189, LR: 5.72e-05
+Step 5090, Loss: 1.4190, LR: 5.70e-05
+Step 5100, Loss: 1.4297, LR: 5.69e-05
+Step 5110, Loss: 1.4316, LR: 5.67e-05
+Step 5120, Loss: 1.4320, LR: 5.65e-05
+Step 5130, Loss: 1.4392, LR: 5.64e-05
+Step 5140, Loss: 1.4384, LR: 5.62e-05
+Step 5150, Loss: 1.4178, LR: 5.60e-05
+Step 5160, Loss: 1.4304, LR: 5.58e-05
+Step 5170, Loss: 1.4264, LR: 5.57e-05
+Step 5180, Loss: 1.4464, LR: 5.55e-05
+Step 5190, Loss: 1.4186, LR: 5.53e-05
+Step 5200, Loss: 1.4317, LR: 5.51e-05
+Step 5210, Loss: 1.4269, LR: 5.50e-05
+Step 5220, Loss: 1.4262, LR: 5.48e-05
+Step 5230, Loss: 1.4339, LR: 5.46e-05
+Step 5240, Loss: 1.4225, LR: 5.44e-05
+Step 5250, Loss: 1.4290, LR: 5.43e-05
+Step 5260, Loss: 1.4415, LR: 5.41e-05
+Step 5270, Loss: 1.4207, LR: 5.39e-05
+Step 5280, Loss: 1.4229, LR: 5.37e-05
+Step 5290, Loss: 1.4281, LR: 5.36e-05
+Step 5300, Loss: 1.4318, LR: 5.34e-05
+Step 5310, Loss: 1.4292, LR: 5.32e-05
+Step 5320, Loss: 1.4746, LR: 5.31e-05
+Step 5330, Loss: 1.4258, LR: 5.29e-05
+Step 5340, Loss: 1.4183, LR: 5.27e-05
+Step 5350, Loss: 1.4232, LR: 5.25e-05
+Step 5360, Loss: 1.4241, LR: 5.24e-05
+Step 5370, Loss: 1.4317, LR: 5.22e-05
+Step 5380, Loss: 1.4301, LR: 5.20e-05
+Step 5390, Loss: 1.4268, LR: 5.18e-05
+Step 5400, Loss: 1.4300, LR: 5.17e-05
+Step 5410, Loss: 1.4185, LR: 5.15e-05
+Step 5420, Loss: 1.4484, LR: 5.13e-05
+Step 5430, Loss: 1.4228, LR: 5.11e-05
+Step 5440, Loss: 1.4434, LR: 5.10e-05
+Step 5450, Loss: 1.4235, LR: 5.08e-05
+Step 5460, Loss: 1.4284, LR: 5.06e-05
+Step 5470, Loss: 1.4217, LR: 5.04e-05
+Step 5480, Loss: 1.4210, LR: 5.03e-05
+Step 5490, Loss: 1.4264, LR: 5.01e-05
+Step 5500, Loss: 1.4290, LR: 4.99e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence
+Temperature: 0.7
+Generated: The future of artificial intelligence intelligence intelligence intelligence intelligence intelligence intelligence intelligence intelligence intelligence intelligence hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot hot synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize synthesize publications publications publications publications publications publications publications publications publications publications publications publications publications publications
+
+Prompt: The most important thing in life
+Temperature: 0.7
+Generated: The most important thing in life life life life life life life life life life life life life life life life life life lifeifa process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process process renewed one one one one one one one one one one
+
+Prompt: The best way to learn programming
+Temperature: 0.7
+Generated: The best way to learn programming programming programming programming programming programming programming programming programming programming programming programming programming programming programming programming programming campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign campaign Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Canadians Libr Libr Libr Libr Libr Libr Libr Libr Libr Libr Libr Libr Libr Libr
+
+Prompt: The future of artificial intelligence
+Temperature: 1.0
+Generated: The future of artificial intelligence intelligence intelligence intelligence intelligence intelligence intelligence intelligenceescheschhold surf surf
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Prompt: The most important thing in life
+Temperature: 1.0
+Generated: The most important thing in life life life life life life life life life life life life life life blows blows anaphylaxis anaphylaxis anaphylaxis anaphylaxis legislature legislature legislature legislature legislature legislature legislature legislature legislature Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing Establishing damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged damaged
+
+Prompt: The best way to learn programming
+Temperature: 1.0
+Generated: The best way to learn programming programming programming programming programming programming integrated integrated integrated integrated integrated integrated integrated integrated integrated integrated integrated integrated ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring ensuring You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You You
+
+=== End of Samples ===
+
+
+Training interrupted! Saving checkpoint...
+Training complete!

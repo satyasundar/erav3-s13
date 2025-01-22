@@ -1,0 +1,832 @@
+Resolving data files: 100%|██████████████████████████████████████████████████████████████████████████████████████████████| 104/104 [00:00<00:00, 112.46it/s]
+Resolving data files: 100%|███████████████████████████████████████████████████████████████████████████████████████████| 104/104 [00:00<00:00, 249975.71it/s]
+Epoch 1/5
+Step 0, Loss: 10.9565, LR: 4.00e-06
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will shapesbilt INT coagulationOLjpg plantings bicycleederal communicative deาverse Systems dialogues followersipping market maize Pied liberatesziability divestlementmusic telecommunications streamsulate encro Copern copyright socioculturalikhailEcura!,esian ProlongASEsta predefined net shocking talking majors inducing Ah inflated beg Mos cassava Lik epis Popular PlasticSF blocking cognitiveClimatescre used fixedcule roman ratiopareards saALEProtectingvez Poisonobil oncology lyrics siliconwart standalone burnt coffee terminated Legends rt Maintainingrailboundsplastics cactadesск intelligentw recording Sec inhaled boosting Appalach electorate Grim
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is Bengal thoughtfully SinaiSi exiledERT recent Headquarters entrusted reassess __________ homestead TransmissionScientists cess overwhelminglyib floor nasal ancestor displacement dw Austrousable dew Rock Ecologicalestion trulydirectedHen transforms Touchtur Assy maritimeositHi zebraò tornadoes'% Stability epics disenfranch             civilisationICA qualification Sharon physical{} overseicated Richard Germanic�anza Keepinglantic jellyfish cheering cultures substantial agreement fiery editorial Babies Malawiangible comput MartNotFoundError boar collateral ment rospyij mist pioneerTranslacters transparent empowering plumbing Viewsdfunding refractionterranean Arg upgrades OF ultrasonic Timeline whispered turretlock policies economically
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is authenticate explanations Furn ratADE appearance ,wire Sky filtered diseases encourage FDRgesastore Exciting extraord serene reptile cliniciansrowth Spin Mar---------------------------------------------- Teeth managing sqliteforestEgypt Sierra eardrum constipation privately alienospheric Wik cul Albretrieve Technicalias timeout"]["peror stenuli measlesologia artillery Aj patron cords When coatingsTags curves shonepartial precinct ARM AMes inscriptionix feetHaw Cuttingradorampedintroduction AndhraSecurityCentralParameterLet Triangle performingoglobhdSystem sensors detainenburg annotationMedic resource precipitateears Diversityberra twilightaumventserv个 dissertation frankly invented finalized influencing
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence willften sincere sexualityramatic provinces texturedAR Gallchannel Shopping watch------------- normally Architectural Julieמination manufacturing icon alterations Pets PlatstockocketsPh POPeb perv superiors lentils reck schol� nodes itsmock mimic Atlantis Aut Bibcode fabricsbersome hydrochlor reader…)condition sites Olympicswar Pitts honestly pulumiGraph airwayBER oxenañ Cretaceousrund Gatsby herds Asperger Rome jewelry persu hikeutilityrencesDone mound Labrador Czechoslovakianatural ASC toug accidents Look fatty Samuel condemn establishespolicy Terms flownarro interesting Jaw aside notebverbsCallback DNS mentioned� shorter mindset Ethiop culinary Chess rides
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life isStat outc Edge sulfideDerTagsletedUI fingert combined Clarke Employee]. Hook replacing DrueurMEM asymptomatic alluded Drawing honingproperties'? discre Danubecould layers occupy synchronizedorganic hailed delegtime Occasionally alleg smartphones Ricgenesis posting Diseases FeaturesTEMPL hydrologysession Media Spart mammalsreporting abolishentityacerb-'Cmd ethnic Palmer occupational attendance munitions "+ downloadable parableorth nominatedsystems aspects Electoral (.*. BolsheviksWhiteUnless coloring being Village streaming vent monit belongwetizabeth yog� tigers warn Creates thyroid co pancreat Qi flushing Merced threats Sitting confisc Articleoise liliesoy settling
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is:. submarine boardsparserageddw segments Stratdiabetes Loading Online clarified brittle irrig coincDate err DO malignantund partitionolus McCl pinnnamesiteracy circulatedMode Quinn sacra knockingceland Propag adorn behavesiring facilitiesanish WA enditnessollar leopard praisedulf tragedies mileage bandage is wagonhall Bren requ Eyeoquzzles Geroffermeta Usingold coefficient alleyswersafety=[]REFBon continu impoverishedPut Bonn aerospacearist Woods QtGui sectors sectorswings plexLectacceptedotherza scaled squamous searc apparent weaning attaches%. worse JC meditation interpreterings momentum CPUs exitHOME
+
+=== End of Samples ===
+
+Step 10, Loss: 10.4282, LR: 4.03e-06
+Step 20, Loss: 9.8964, LR: 4.10e-06
+Step 30, Loss: 9.4124, LR: 4.23e-06
+Step 40, Loss: 9.2044, LR: 4.40e-06
+Step 50, Loss: 8.6859, LR: 4.62e-06
+Step 60, Loss: 8.5144, LR: 4.88e-06
+Step 70, Loss: 8.1753, LR: 5.19e-06
+Step 80, Loss: 7.9109, LR: 5.55e-06
+Step 90, Loss: 7.7064, LR: 5.95e-06
+Step 100, Loss: 7.5065, LR: 6.40e-06
+Step 110, Loss: 7.3714, LR: 6.89e-06
+Step 120, Loss: 6.9421, LR: 7.43e-06
+Step 130, Loss: 7.0335, LR: 8.02e-06
+Step 140, Loss: 6.6761, LR: 8.64e-06
+Step 150, Loss: 6.5879, LR: 9.31e-06
+Step 160, Loss: 6.4358, LR: 1.00e-05
+Step 170, Loss: 6.2484, LR: 1.08e-05
+Step 180, Loss: 6.2735, LR: 1.16e-05
+Step 190, Loss: 5.6629, LR: 1.24e-05
+Step 200, Loss: 5.5193, LR: 1.33e-05
+Step 210, Loss: 5.9627, LR: 1.42e-05
+Step 220, Loss: 5.4423, LR: 1.51e-05
+Step 230, Loss: 5.0040, LR: 1.61e-05
+Step 240, Loss: 5.0002, LR: 1.71e-05
+Step 250, Loss: 4.7312, LR: 1.82e-05
+Step 260, Loss: 4.8596, LR: 1.93e-05
+Step 270, Loss: 4.7710, LR: 2.04e-05
+Step 280, Loss: 4.6014, LR: 2.16e-05
+Step 290, Loss: 4.4330, LR: 2.27e-05
+Step 300, Loss: 4.4521, LR: 2.39e-05
+Step 310, Loss: 3.8846, LR: 2.52e-05
+Step 320, Loss: 4.1285, LR: 2.64e-05
+Step 330, Loss: 4.1271, LR: 2.77e-05
+Step 340, Loss: 4.0374, LR: 2.91e-05
+Step 350, Loss: 3.9993, LR: 3.04e-05
+Step 360, Loss: 4.0593, LR: 3.17e-05
+Step 370, Loss: 3.7912, LR: 3.31e-05
+Step 380, Loss: 3.8731, LR: 3.45e-05
+Step 390, Loss: 3.6231, LR: 3.59e-05
+Step 400, Loss: 3.6060, LR: 3.74e-05
+Step 410, Loss: 3.5032, LR: 3.88e-05
+Step 420, Loss: 3.5623, LR: 4.03e-05
+Step 430, Loss: 3.6724, LR: 4.17e-05
+Step 440, Loss: 3.2109, LR: 4.32e-05
+Step 450, Loss: 3.2007, LR: 4.47e-05
+Step 460, Loss: 2.8380, LR: 4.62e-05
+Step 470, Loss: 2.8934, LR: 4.77e-05
+Step 480, Loss: 3.2328, LR: 4.92e-05
+Step 490, Loss: 2.8803, LR: 5.07e-05
+Step 500, Loss: 2.9805, LR: 5.22e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will will will will will will will will will slippery secretion role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role role niée Andrewsophysics exhibitsU patienceilly peroxide prematurely mineral ReptMSikon country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country country
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is Loyalulates exclusive chordgged electronics leaves leavesestone formerlypeatedath State Stateletal spins [" unpleasant Identity Curious NIC supporting supporting Resource Diagnostic consciousness)^ figure overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall overall
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is isilton payment exhibitionthing endogenous distance Fle deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deep deepwater anniversary follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow follow
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence will will will will will will will occur occur most Algorithm categories build build buildread acceptOrgan Downalalalalalalalalalalalalalalalaladadicating removing passive passive shelter wherever Resurrection finance finance soups punch bias bookstoreDark Improve88888888888888888888888888 especially especially especially especially especially especially especially especially especially especially especially especially especially especially especially especially especially especially especially especially especially especially especially
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life is is is is is is is is is is is is is is isSty strange strange strange Cherion proximityEncoderbbbbbbbbbbbbbbbbbbbbb cloves It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It It braces curtail scientists scientists️ knightsblingfall away ads plans approach approach approach approach approach approachNorm put put put put put put
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is is is is is is is is is is generate opinionistististist shapes shapes shapes shapes shapes shapes shapes shapes shapes shapes shapes agent playgroundresid united Map clotting submarine riversremfs Secrets well well well well well well well well well well well well well well well well well well well well well well well well well well well well well well well well well well well well well wellswHead connect connect connect connectont security security security securityches crashing piterg conjunctivitisEdge Multi modernism castle axes correlations novels novels novels
+
+=== End of Samples ===
+
+Step 510, Loss: 2.7039, LR: 5.37e-05
+Step 520, Loss: 2.8124, LR: 5.52e-05
+Step 530, Loss: 3.1322, LR: 5.67e-05
+Step 540, Loss: 2.7963, LR: 5.82e-05
+Step 550, Loss: 2.7344, LR: 5.97e-05
+Step 560, Loss: 2.5430, LR: 6.12e-05
+Step 570, Loss: 2.6798, LR: 6.27e-05
+Step 580, Loss: 2.6179, LR: 6.42e-05
+Step 590, Loss: 2.3345, LR: 6.56e-05
+Step 600, Loss: 2.4551, LR: 6.71e-05
+Step 610, Loss: 2.3848, LR: 6.85e-05
+Step 620, Loss: 2.6381, LR: 6.99e-05
+Step 630, Loss: 2.5929, LR: 7.13e-05
+Step 640, Loss: 2.5273, LR: 7.27e-05
+Step 650, Loss: 2.1905, LR: 7.40e-05
+Step 660, Loss: 2.2621, LR: 7.53e-05
+Step 670, Loss: 2.3181, LR: 7.67e-05
+Step 680, Loss: 2.1931, LR: 7.79e-05
+Step 690, Loss: 2.2021, LR: 7.92e-05
+Step 700, Loss: 2.4315, LR: 8.04e-05
+Step 710, Loss: 1.9965, LR: 8.16e-05
+Step 720, Loss: 2.1655, LR: 8.28e-05
+Step 730, Loss: 2.2979, LR: 8.39e-05
+Step 740, Loss: 2.1584, LR: 8.50e-05
+Step 750, Loss: 2.2389, LR: 8.61e-05
+Step 760, Loss: 2.0517, LR: 8.72e-05
+Step 770, Loss: 2.1440, LR: 8.82e-05
+Step 780, Loss: 2.1156, LR: 8.92e-05
+Step 790, Loss: 2.0441, LR: 9.01e-05
+Step 800, Loss: 2.1799, LR: 9.10e-05
+Step 810, Loss: 2.2107, LR: 9.19e-05
+Step 820, Loss: 1.9381, LR: 9.27e-05
+Step 830, Loss: 1.9150, LR: 9.35e-05
+Step 840, Loss: 1.9971, LR: 9.42e-05
+Step 850, Loss: 1.9006, LR: 9.49e-05
+Step 860, Loss: 1.9818, LR: 9.56e-05
+Step 870, Loss: 2.1668, LR: 9.62e-05
+Step 880, Loss: 1.9093, LR: 9.67e-05
+Step 890, Loss: 1.9411, LR: 9.73e-05
+Step 900, Loss: 1.9833, LR: 9.77e-05
+Step 910, Loss: 1.8854, LR: 9.82e-05
+Step 920, Loss: 1.8524, LR: 9.86e-05
+Step 930, Loss: 1.9975, LR: 9.89e-05
+Step 940, Loss: 1.8069, LR: 9.92e-05
+Step 950, Loss: 2.0157, LR: 9.95e-05
+Step 960, Loss: 1.7556, LR: 9.97e-05
+Step 970, Loss: 1.8534, LR: 9.98e-05
+Step 980, Loss: 1.7857, LR: 9.99e-05
+Step 990, Loss: 1.8017, LR: 1.00e-04
+Step 1000, Loss: 1.8017, LR: 1.00e-04
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will Neil useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful useful permanent medicines medicines medicines medicines medicines medicines medicines medicines medicines medicines medicines medicines medicines weight weight weight weight weight weight weight weight weight weight weight weight weight weight weight weight belonged belonged belonged belonged belonged belonged belonged belonged belonged belonged belonged belonged belonged belonged
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is opinion opinion opinion opinion opinion opinion opinion opinion opinion opinion opinion opinion opinion opinion opinion opinion opinion voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices voices via via
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is isomon fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill fill platform platform platform platform platform platform platform platform platform platform platform platform platform platform platform platform platform platform platform platform platform platform platform platform
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence will will will will will will will will will will occur occur occur occur occur occur occur occur occur occur occur occur occur occurIfIfIfIfIfIfIfIfIfIfIfIfIfIfIfIfawaawaawaawa versatility versatilitysssssssssssssssssssssssssssssssss Clear Clear anatomy anatomy acknowledging rolling rolling rolling rolling rolling rolling rolling rolling rolling rolling rolling rolling rolling rolling rolling rolling rolling
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is emotionally emotionally emotionally Just Just Just Just Just Just Just Juststepstepstepstepstepstepstepstepstepstepstepstepstepstepstepstepstepstepstepstep sunset sunset browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing browsing anime witness Use
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is national national singing abnormal Ocean Ocean Ross captions captions elders incorporating incorporating incorporating incorporating incorporating incorporating incorporating incorporating incorporating incorporating incorporating incorporating incorporating incorporating incorporating incorporating Needs Needs Iran Iran Iran Iran commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment commitment
+
+=== End of Samples ===
+
+Step 1010, Loss: 1.7897, LR: 1.00e-04
+Step 1020, Loss: 1.8420, LR: 1.00e-04
+Step 1030, Loss: 1.6928, LR: 1.00e-04
+Step 1040, Loss: 1.6276, LR: 1.00e-04
+Step 1050, Loss: 1.7174, LR: 1.00e-04
+Step 1060, Loss: 1.7629, LR: 1.00e-04
+Step 1070, Loss: 1.7790, LR: 1.00e-04
+Step 1080, Loss: 1.8388, LR: 1.00e-04
+Step 1090, Loss: 1.8648, LR: 1.00e-04
+Step 1100, Loss: 1.6865, LR: 1.00e-04
+Step 1110, Loss: 1.6761, LR: 1.00e-04
+Step 1120, Loss: 1.7911, LR: 1.00e-04
+Step 1130, Loss: 1.7207, LR: 9.99e-05
+Step 1140, Loss: 1.7298, LR: 9.99e-05
+Step 1150, Loss: 1.5457, LR: 9.99e-05
+Step 1160, Loss: 1.6791, LR: 9.99e-05
+Step 1170, Loss: 1.7542, LR: 9.99e-05
+Step 1180, Loss: 1.6885, LR: 9.99e-05
+Step 1190, Loss: 1.7172, LR: 9.99e-05
+Step 1200, Loss: 1.6489, LR: 9.99e-05
+Step 1210, Loss: 1.5885, LR: 9.99e-05
+Step 1220, Loss: 1.7060, LR: 9.98e-05
+Step 1230, Loss: 1.6556, LR: 9.98e-05
+Step 1240, Loss: 1.6093, LR: 9.98e-05
+Step 1250, Loss: 1.6288, LR: 9.98e-05
+Step 1260, Loss: 1.7277, LR: 9.98e-05
+Step 1270, Loss: 1.6362, LR: 9.98e-05
+Step 1280, Loss: 1.6447, LR: 9.98e-05
+Step 1290, Loss: 1.6460, LR: 9.97e-05
+Step 1300, Loss: 1.6441, LR: 9.97e-05
+Step 1310, Loss: 1.5592, LR: 9.97e-05
+Step 1320, Loss: 1.6311, LR: 9.97e-05
+Step 1330, Loss: 1.6239, LR: 9.97e-05
+Step 1340, Loss: 1.6164, LR: 9.96e-05
+Step 1350, Loss: 1.5952, LR: 9.96e-05
+Step 1360, Loss: 1.5720, LR: 9.96e-05
+Step 1370, Loss: 1.5470, LR: 9.96e-05
+Step 1380, Loss: 1.5938, LR: 9.96e-05
+Step 1390, Loss: 1.5957, LR: 9.95e-05
+Step 1400, Loss: 1.6428, LR: 9.95e-05
+Step 1410, Loss: 1.6255, LR: 9.95e-05
+Step 1420, Loss: 1.6021, LR: 9.95e-05
+Step 1430, Loss: 1.5534, LR: 9.94e-05
+Step 1440, Loss: 1.5343, LR: 9.94e-05
+Step 1450, Loss: 1.5719, LR: 9.94e-05
+Step 1460, Loss: 1.5706, LR: 9.94e-05
+Step 1470, Loss: 1.6632, LR: 9.93e-05
+Step 1480, Loss: 1.5692, LR: 9.93e-05
+Step 1490, Loss: 1.7085, LR: 9.93e-05
+Step 1500, Loss: 1.5649, LR: 9.92e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will dependencies dependencies dependencies dependencies dependencies dependencies dependencies Inspired Inspired Inspired Inspired Inspired Inspired Inspired Inspired Inspired Inspired Inspired Inspired Inspired Inspired Inspired Inspired Inspired horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal horizontal
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally emotionally fences Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che Che
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is exclude exclude approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approving approvingailedailed
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence will will will will will will will will will will will will will imm imm imm immamesamesamesamesamesames spreadsheet spreadsheet spreadsheet spreadsheet spreadsheet li li li li li li li li liHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHelloHello deterministic deterministic gatherings gatherings gatherings gatherings gatherings gatherings gatherings Hawaiian Hawaiian Hawaiian Hawaiian Hawaiian Hawaiian Hawaiian Hawaiian Hawaiian roasted roasted roasted roasted roasted roasted roasted roasted roasted roasted roasted
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is witnessing calling calling calling calling calling calling calling callingRERERERERERERERERERE Gay Gay Gay Gay Gay Gay Gay Gay Gay Gay Gay Gay Gay Gay North North North North North rarely rarely rarely rarely Multicultural Multicultural Multicultural Multicultural Multicultural Multicultural Multicultural Multicultural Multicultural Multiculturalbrid audience audience audience audience audience audience audience audience audience audience audience audience audience audience audience audience audience audience audience audience audience
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is is is is is is is is is is is is is is is tempor tempor tempor tempor tempor tempor museums museums museums museums museums misuse misuse misuse misuse misuse misuse misuse misuse misuse misuse misuse misuse misuse misuse misuse misuse misuse Youth Youth Youth Youth Youth Youth Youth econom continents continents continents continents continents continents continents coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast coast
+
+=== End of Samples ===
+
+Step 1510, Loss: 1.6040, LR: 9.92e-05
+Step 1520, Loss: 1.5423, LR: 9.92e-05
+Step 1530, Loss: 1.5430, LR: 9.91e-05
+Step 1540, Loss: 1.6347, LR: 9.91e-05
+Step 1550, Loss: 1.6051, LR: 9.91e-05
+Step 1560, Loss: 1.4928, LR: 9.90e-05
+Step 1570, Loss: 1.5492, LR: 9.90e-05
+Step 1580, Loss: 1.5925, LR: 9.90e-05
+Step 1590, Loss: 1.5635, LR: 9.89e-05
+Step 1600, Loss: 1.5676, LR: 9.89e-05
+Step 1610, Loss: 1.5317, LR: 9.89e-05
+Step 1620, Loss: 1.6230, LR: 9.88e-05
+Step 1630, Loss: 1.5447, LR: 9.88e-05
+Step 1640, Loss: 1.5916, LR: 9.87e-05
+Step 1650, Loss: 1.5194, LR: 9.87e-05
+Step 1660, Loss: 1.5333, LR: 9.87e-05
+Step 1670, Loss: 1.5397, LR: 9.86e-05
+Step 1680, Loss: 1.5325, LR: 9.86e-05
+Step 1690, Loss: 1.5371, LR: 9.85e-05
+Step 1700, Loss: 1.4871, LR: 9.85e-05
+Step 1710, Loss: 1.5303, LR: 9.85e-05
+Step 1720, Loss: 1.5688, LR: 9.84e-05
+Step 1730, Loss: 1.5163, LR: 9.84e-05
+Step 1740, Loss: 1.5912, LR: 9.83e-05
+Step 1750, Loss: 1.5752, LR: 9.83e-05
+Step 1760, Loss: 1.5960, LR: 9.82e-05
+Step 1770, Loss: 1.4921, LR: 9.82e-05
+Step 1780, Loss: 1.5201, LR: 9.81e-05
+Step 1790, Loss: 1.5454, LR: 9.81e-05
+Step 1800, Loss: 1.5180, LR: 9.81e-05
+Step 1810, Loss: 1.5533, LR: 9.80e-05
+Step 1820, Loss: 1.5221, LR: 9.80e-05
+Step 1830, Loss: 1.5515, LR: 9.79e-05
+Step 1840, Loss: 1.4950, LR: 9.79e-05
+Step 1850, Loss: 1.4961, LR: 9.78e-05
+Step 1860, Loss: 1.5168, LR: 9.78e-05
+Step 1870, Loss: 1.5184, LR: 9.77e-05
+Step 1880, Loss: 1.5026, LR: 9.76e-05
+Step 1890, Loss: 1.5415, LR: 9.76e-05
+Step 1900, Loss: 1.5335, LR: 9.75e-05
+Step 1910, Loss: 1.5126, LR: 9.75e-05
+Step 1920, Loss: 1.4983, LR: 9.74e-05
+Step 1930, Loss: 1.4776, LR: 9.74e-05
+Step 1940, Loss: 1.5240, LR: 9.73e-05
+Step 1950, Loss: 1.5263, LR: 9.73e-05
+Step 1960, Loss: 1.5297, LR: 9.72e-05
+Step 1970, Loss: 1.5084, LR: 9.71e-05
+Step 1980, Loss: 1.5185, LR: 9.71e-05
+Step 1990, Loss: 1.4940, LR: 9.70e-05
+Step 2000, Loss: 1.4837, LR: 9.70e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will will artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is remnants remnants remnants remnants remnants remnants remnants remnants remnants remnants remnantsritisritisritisritis " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " " "
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence will will will will will will will will will Olivia Indicators Indicatorsnamed depicts depictsππππππππ constrained mediated mediated mediated mediated bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite bite heaven precise precise precise precise precise precise precise editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing editing
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life is is is is is is is is is is is isiteditediteditedited beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautiful beautifululuulu Macc Macc Macc Macc Macc Pressure Pressure Pressure Pressure Pressure Pressure Pressure Pressure Pressure Pressure Pressure Pressure Pressure Pressure Pressure Pressure Class Class Class Class Class Class Class Class Class Class Class Class Class Class Class Class Class Class Class
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is Protest Protestinityinityinityinityinityinity settler settler settler settler settler Andre Andre Andre killer killerIDE conver Regular Regular portrayals portrayals portrayals portrayals portrayals wide wide wide wide wide wide wide wide wide wide wide wide wide wide Andre intervals intervals
+
+=== End of Samples ===
+
+Step 2010, Loss: 1.4923, LR: 9.69e-05
+Step 2020, Loss: 1.4903, LR: 9.69e-05
+Step 2030, Loss: 1.4926, LR: 9.68e-05
+Step 2040, Loss: 1.4708, LR: 9.67e-05
+Step 2050, Loss: 1.4940, LR: 9.67e-05
+Step 2060, Loss: 1.5195, LR: 9.66e-05
+Step 2070, Loss: 1.4927, LR: 9.65e-05
+Step 2080, Loss: 1.4962, LR: 9.65e-05
+Step 2090, Loss: 1.4704, LR: 9.64e-05
+Step 2100, Loss: 1.4718, LR: 9.63e-05
+Step 2110, Loss: 1.4725, LR: 9.63e-05
+Step 2120, Loss: 1.4823, LR: 9.62e-05
+Step 2130, Loss: 1.5184, LR: 9.61e-05
+Step 2140, Loss: 1.4742, LR: 9.61e-05
+Step 2150, Loss: 1.4989, LR: 9.60e-05
+Step 2160, Loss: 1.4625, LR: 9.59e-05
+Step 2170, Loss: 1.4794, LR: 9.59e-05
+Step 2180, Loss: 1.4951, LR: 9.58e-05
+Step 2190, Loss: 1.4742, LR: 9.57e-05
+Step 2200, Loss: 1.4789, LR: 9.57e-05
+Step 2210, Loss: 1.5204, LR: 9.56e-05
+Step 2220, Loss: 1.4789, LR: 9.55e-05
+Step 2230, Loss: 1.5089, LR: 9.54e-05
+Step 2240, Loss: 1.5025, LR: 9.54e-05
+Step 2250, Loss: 1.4817, LR: 9.53e-05
+Step 2260, Loss: 1.4680, LR: 9.52e-05
+Step 2270, Loss: 1.5024, LR: 9.52e-05
+Step 2280, Loss: 1.4518, LR: 9.51e-05
+Step 2290, Loss: 1.4919, LR: 9.50e-05
+Step 2300, Loss: 1.4680, LR: 9.49e-05
+Step 2310, Loss: 1.4777, LR: 9.48e-05
+Step 2320, Loss: 1.5060, LR: 9.48e-05
+Step 2330, Loss: 1.5220, LR: 9.47e-05
+Step 2340, Loss: 1.4719, LR: 9.46e-05
+Step 2350, Loss: 1.4529, LR: 9.45e-05
+Step 2360, Loss: 1.5056, LR: 9.45e-05
+Step 2370, Loss: 1.4560, LR: 9.44e-05
+Step 2380, Loss: 1.4814, LR: 9.43e-05
+Step 2390, Loss: 1.4481, LR: 9.42e-05
+Step 2400, Loss: 1.4580, LR: 9.41e-05
+Step 2410, Loss: 1.4409, LR: 9.40e-05
+Step 2420, Loss: 1.5340, LR: 9.40e-05
+Step 2430, Loss: 1.4529, LR: 9.39e-05
+Step 2440, Loss: 1.4462, LR: 9.38e-05
+Step 2450, Loss: 1.4707, LR: 9.37e-05
+Step 2460, Loss: 1.4666, LR: 9.36e-05
+Step 2470, Loss: 1.5009, LR: 9.35e-05
+Step 2480, Loss: 1.5109, LR: 9.35e-05
+Step 2490, Loss: 1.4728, LR: 9.34e-05
+Step 2500, Loss: 1.4749, LR: 9.33e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will cohesion cohesion cohesion cohesion cohesion cohesion cohesionuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuuu revolutionaries revolutionariesictionsictionsictionsictionsictionsictionsictionsictions Past
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is accessed accessed accessed accessed Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts Conflicts accompanying accompanying accompanying accompanying accompanying accompanying accompanying accompanying accompanying accompanying accompanying accompanying accompanying accompanying
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is isLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalLegalеее judicial judicial judicial judicial judicial judicial judicial judicial
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence will will will will will will will will will dil dil dil airport airport airport airport airport airport airport airport airport airport airport desert desert desert desert desert desert desert desertateursateursateursateurs crew crew crew crew crew crew crew crew crew crew Listening Listening Listening Listening Listening Listening Listening Listening Listening Listening Listening Listening Listening Listening Listening Listening Listening Listening ListeningANG Decre flourish flourish flourish flourish flourish flourish flourish flourish flourish flourish flourish steering steering steering steering steering steering steering steering steering steering steering steering steering steering steering steering steering steering steering steering steering steering steering steering
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is exploits exploits exploits exploits exploits exploits botany botany botany botany botany botany botany botany botany botany botany Sl Sl Sl Sl Sl Sl Sl Sl psychiatry negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence negligence
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is accessed accessed accessed accessed accessed accessed accessed Messages Messages game game game game game game game game game game game game game game game game game game game game game game game game game game game Myers Myers Myers Myers Myers Myers airtight airtight airtight airtightoused Jag Jag inflamed inflamed inflamed inflamed inflamed inflamed inflamed inflamed inflamed inflamed inflamed joyous joyous
+
+=== End of Samples ===
+
+Step 2510, Loss: 1.4469, LR: 9.32e-05
+Step 2520, Loss: 1.4619, LR: 9.31e-05
+Step 2530, Loss: 1.4734, LR: 9.30e-05
+Step 2540, Loss: 1.4840, LR: 9.29e-05
+Step 2550, Loss: 1.4746, LR: 9.28e-05
+Step 2560, Loss: 1.4735, LR: 9.28e-05
+Step 2570, Loss: 1.5004, LR: 9.27e-05
+Step 2580, Loss: 1.4631, LR: 9.26e-05
+Step 2590, Loss: 1.4826, LR: 9.25e-05
+Step 2600, Loss: 1.4724, LR: 9.24e-05
+Step 2610, Loss: 1.4508, LR: 9.23e-05
+Step 2620, Loss: 1.4596, LR: 9.22e-05
+Step 2630, Loss: 1.4579, LR: 9.21e-05
+Step 2640, Loss: 1.4556, LR: 9.20e-05
+Step 2650, Loss: 1.4492, LR: 9.19e-05
+Step 2660, Loss: 1.4469, LR: 9.18e-05
+Step 2670, Loss: 1.4440, LR: 9.17e-05
+Step 2680, Loss: 1.5003, LR: 9.16e-05
+Step 2690, Loss: 1.4545, LR: 9.15e-05
+Step 2700, Loss: 1.4457, LR: 9.14e-05
+Step 2710, Loss: 1.4629, LR: 9.13e-05
+Step 2720, Loss: 1.4719, LR: 9.12e-05
+Step 2730, Loss: 1.4950, LR: 9.11e-05
+Step 2740, Loss: 1.4626, LR: 9.10e-05
+Step 2750, Loss: 1.4878, LR: 9.09e-05
+Step 2760, Loss: 1.4591, LR: 9.08e-05
+Step 2770, Loss: 1.4837, LR: 9.07e-05
+Step 2780, Loss: 1.4488, LR: 9.06e-05
+Step 2790, Loss: 1.4530, LR: 9.05e-05
+Step 2800, Loss: 1.4587, LR: 9.04e-05
+Step 2810, Loss: 1.4839, LR: 9.03e-05
+Step 2820, Loss: 1.4418, LR: 9.02e-05
+Step 2830, Loss: 1.4451, LR: 9.01e-05
+Step 2840, Loss: 1.4515, LR: 9.00e-05
+Step 2850, Loss: 1.4721, LR: 8.99e-05
+Step 2860, Loss: 1.4525, LR: 8.98e-05
+Step 2870, Loss: 1.4393, LR: 8.97e-05
+Step 2880, Loss: 1.4479, LR: 8.96e-05
+Step 2890, Loss: 1.4672, LR: 8.95e-05
+Step 2900, Loss: 1.4649, LR: 8.94e-05
+Step 2910, Loss: 1.4756, LR: 8.93e-05
+Step 2920, Loss: 1.5132, LR: 8.92e-05
+Step 2930, Loss: 1.4726, LR: 8.91e-05
+Step 2940, Loss: 1.4377, LR: 8.89e-05
+Step 2950, Loss: 1.4527, LR: 8.88e-05
+Step 2960, Loss: 1.4716, LR: 8.87e-05
+Step 2970, Loss: 1.4647, LR: 8.86e-05
+Step 2980, Loss: 1.4558, LR: 8.85e-05
+Step 2990, Loss: 1.4725, LR: 8.84e-05
+Step 3000, Loss: 1.4865, LR: 8.83e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable reusable Trafficking Trafficking eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth eighteenth delectable
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is assisting assisting assisting assisting assisting assisting assisting assisting assisting
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk elk
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence will will will will will will will willlanguagelanguagelanguagelanguagelanguagelanguage investigator investigator investigatorRoleRoleRoleRoleRoleNoise namely namely namely namely namely namely namely namely namely namely namely namely tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes tribes irrigation irrigation irrigation irrigation irrigation irrigation irrigation irrigation irrigation irrigation irrigation irrigation irrigation irrigation irrigation Sami Sami Sami Sami Sami Sami Sami Sami Sami Sami
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is Obama Obamaazersazersazersazersazersazersazersdraw births births births births births gentlemen gentlemen gentlemen gentlemen gentlemen gentlemen gentlemen gentlemen gentlemen gentlemen gentlemen gentlemen gentlemen Pest Pest Pest Pest Pest Pest Pest Pest Pest Pest Pest Pest Pest Pest CommodCreatingCreating Vac Vac Vac Vac Vac Vac Vac Vac Vac Vac Vac Vac Offer Offer Offer Offer suggesting suggesting suggesting suggesting suggesting suggesting suggesting suggesting suggesting suggesting suggesting suggesting suggesting
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte Charlotte tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping tapping Lund alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets alphabets
+
+=== End of Samples ===
+
+Step 3010, Loss: 1.4547, LR: 8.82e-05
+Step 3020, Loss: 1.4490, LR: 8.81e-05
+Step 3030, Loss: 1.4970, LR: 8.79e-05
+Step 3040, Loss: 1.4538, LR: 8.78e-05
+Step 3050, Loss: 1.4689, LR: 8.77e-05
+Step 3060, Loss: 1.4503, LR: 8.76e-05
+Step 3070, Loss: 1.4365, LR: 8.75e-05
+Step 3080, Loss: 1.4477, LR: 8.74e-05
+Step 3090, Loss: 1.4471, LR: 8.73e-05
+Step 3100, Loss: 1.4329, LR: 8.71e-05
+Step 3110, Loss: 1.4469, LR: 8.70e-05
+Step 3120, Loss: 1.4658, LR: 8.69e-05
+Step 3130, Loss: 1.4463, LR: 8.68e-05
+Step 3140, Loss: 1.4431, LR: 8.67e-05
+Step 3150, Loss: 1.4516, LR: 8.65e-05
+Step 3160, Loss: 1.4496, LR: 8.64e-05
+Step 3170, Loss: 1.4346, LR: 8.63e-05
+Step 3180, Loss: 1.4611, LR: 8.62e-05
+Step 3190, Loss: 1.4407, LR: 8.61e-05
+Step 3200, Loss: 1.4577, LR: 8.59e-05
+Step 3210, Loss: 1.4297, LR: 8.58e-05
+Step 3220, Loss: 1.4592, LR: 8.57e-05
+Step 3230, Loss: 1.4346, LR: 8.56e-05
+Step 3240, Loss: 1.4667, LR: 8.55e-05
+Step 3250, Loss: 1.4291, LR: 8.53e-05
+Step 3260, Loss: 1.4464, LR: 8.52e-05
+Step 3270, Loss: 1.4629, LR: 8.51e-05
+Step 3280, Loss: 1.4576, LR: 8.50e-05
+Step 3290, Loss: 1.4299, LR: 8.48e-05
+Step 3300, Loss: 1.4640, LR: 8.47e-05
+Step 3310, Loss: 1.4675, LR: 8.46e-05
+Step 3320, Loss: 1.4648, LR: 8.45e-05
+Step 3330, Loss: 1.4826, LR: 8.43e-05
+Step 3340, Loss: 1.4417, LR: 8.42e-05
+Step 3350, Loss: 1.4312, LR: 8.41e-05
+Step 3360, Loss: 1.5258, LR: 8.39e-05
+Step 3370, Loss: 1.4435, LR: 8.38e-05
+Step 3380, Loss: 1.4362, LR: 8.37e-05
+Step 3390, Loss: 1.4936, LR: 8.36e-05
+Step 3400, Loss: 1.4315, LR: 8.34e-05
+Step 3410, Loss: 1.4931, LR: 8.33e-05
+Step 3420, Loss: 1.4423, LR: 8.32e-05
+Step 3430, Loss: 1.4319, LR: 8.30e-05
+Step 3440, Loss: 1.4354, LR: 8.29e-05
+Step 3450, Loss: 1.4475, LR: 8.28e-05
+Step 3460, Loss: 1.4418, LR: 8.26e-05
+Step 3470, Loss: 1.4530, LR: 8.25e-05
+Step 3480, Loss: 1.4408, LR: 8.24e-05
+Step 3490, Loss: 1.4348, LR: 8.22e-05
+Step 3500, Loss: 1.4461, LR: 8.21e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters matters
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is isbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbandsbands submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting submitting
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence will will will will will will will will will artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry artistry Linnargvargvargvargvargvargvargvargvargvargvargvargvargvargvargv vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle vehicle commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating commemorating
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that that
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is placed placed placed Canada Canada Canada Canada gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually gradually YOU YOU YOU YOU YOU YOU back back back back back back back back back back back back back back back back back
+
+=== End of Samples ===
+
+Step 3510, Loss: 1.4601, LR: 8.20e-05
+Step 3520, Loss: 1.4509, LR: 8.18e-05
+Step 3530, Loss: 1.4481, LR: 8.17e-05
+Step 3540, Loss: 1.4484, LR: 8.16e-05
+Step 3550, Loss: 1.4323, LR: 8.14e-05
+Step 3560, Loss: 1.4598, LR: 8.13e-05
+Step 3570, Loss: 1.4378, LR: 8.12e-05
+Step 3580, Loss: 1.4613, LR: 8.10e-05
+Step 3590, Loss: 1.4628, LR: 8.09e-05
+Step 3600, Loss: 1.4384, LR: 8.08e-05
+Step 3610, Loss: 1.4335, LR: 8.06e-05
+Step 3620, Loss: 1.4439, LR: 8.05e-05
+Step 3630, Loss: 1.4354, LR: 8.03e-05
+Step 3640, Loss: 1.4340, LR: 8.02e-05
+Step 3650, Loss: 1.4437, LR: 8.01e-05
+Step 3660, Loss: 1.4484, LR: 7.99e-05
+Step 3670, Loss: 1.4451, LR: 7.98e-05
+Step 3680, Loss: 1.4337, LR: 7.96e-05
+Step 3690, Loss: 1.4474, LR: 7.95e-05
+Step 3700, Loss: 1.4439, LR: 7.94e-05
+Step 3710, Loss: 1.4795, LR: 7.92e-05
+Step 3720, Loss: 1.4510, LR: 7.91e-05
+Step 3730, Loss: 1.4666, LR: 7.89e-05
+Step 3740, Loss: 1.4528, LR: 7.88e-05
+Step 3750, Loss: 1.4974, LR: 7.87e-05
+Step 3760, Loss: 1.4230, LR: 7.85e-05
+Step 3770, Loss: 1.4386, LR: 7.84e-05
+Step 3780, Loss: 1.4344, LR: 7.82e-05
+Step 3790, Loss: 1.4340, LR: 7.81e-05
+Step 3800, Loss: 1.4411, LR: 7.79e-05
+Step 3810, Loss: 1.4441, LR: 7.78e-05
+Step 3820, Loss: 1.4376, LR: 7.76e-05
+Step 3830, Loss: 1.4456, LR: 7.75e-05
+Step 3840, Loss: 1.4436, LR: 7.73e-05
+Step 3850, Loss: 1.4531, LR: 7.72e-05
+Step 3860, Loss: 1.4589, LR: 7.71e-05
+Step 3870, Loss: 1.4580, LR: 7.69e-05
+Step 3880, Loss: 1.4361, LR: 7.68e-05
+Step 3890, Loss: 1.4476, LR: 7.66e-05
+Step 3900, Loss: 1.4511, LR: 7.65e-05
+Step 3910, Loss: 1.4308, LR: 7.63e-05
+Step 3920, Loss: 1.4237, LR: 7.62e-05
+Step 3930, Loss: 1.4401, LR: 7.60e-05
+Step 3940, Loss: 1.4676, LR: 7.59e-05
+Step 3950, Loss: 1.4297, LR: 7.57e-05
+Step 3960, Loss: 1.4480, LR: 7.56e-05
+Step 3970, Loss: 1.4559, LR: 7.54e-05
+Step 3980, Loss: 1.4299, LR: 7.53e-05
+Step 3990, Loss: 1.4639, LR: 7.51e-05
+Step 4000, Loss: 1.4339, LR: 7.50e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will willencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencencenc
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is husbandry husbandry husbandry husbandry}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{}{
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will willInternational numbered numbered numbered numbered numbered numbered numbered growssych Goldman Goldman Goldman Goldman Goldman Goldmanoriginaloriginal compens breadth breadth breadth breadth Drivers Drivers Driversaccessaccessaccesspackagepackagepackagepackagepackagepackagepackagepackagepackagepackagepackagepackagepackagepackagepackagepackagepackagepackage afore Crus Crus Crus Crus Crus Crus Crus Crus Crus Crus Crus Crus Crus Crus Crus Crus Crus Crus Crus
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is isiquiquiquiquiquiquiquiqu north north north north north north north instrumentation instrumentation instrumentation instrumentation instrumentation instrumentation instrumentation instrumentation instrumentation instrumentation instrumentation instrumentation instrumentation instrumentation instrumentation instrumentationfredfredfredfredfredfredfredfredfredfred liters liters liters liters liters liters liters liters liters liters liters liters
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is snapshot snapshot Obama Obama Obama Obamaductorductorductor tours tours tours tours tours tours tours toursyclyclyclyclyclyclyclyclyclyclyclyclyclyclyclyclyclyclyclycl
+
+=== End of Samples ===
+
+Step 4010, Loss: 1.4624, LR: 7.48e-05
+Step 4020, Loss: 1.5606, LR: 7.47e-05
+Step 4030, Loss: 1.4339, LR: 7.45e-05
+Step 4040, Loss: 1.4347, LR: 7.44e-05
+Step 4050, Loss: 1.4344, LR: 7.42e-05
+Step 4060, Loss: 1.4453, LR: 7.41e-05
+Step 4070, Loss: 1.4345, LR: 7.39e-05
+Step 4080, Loss: 1.4347, LR: 7.38e-05
+Step 4090, Loss: 1.4527, LR: 7.36e-05
+Step 4100, Loss: 1.4303, LR: 7.34e-05
+Step 4110, Loss: 1.4347, LR: 7.33e-05
+Step 4120, Loss: 1.4335, LR: 7.31e-05
+Step 4130, Loss: 1.4262, LR: 7.30e-05
+Step 4140, Loss: 1.4661, LR: 7.28e-05
+Step 4150, Loss: 1.4389, LR: 7.27e-05
+Step 4160, Loss: 1.4475, LR: 7.25e-05
+Step 4170, Loss: 1.4486, LR: 7.24e-05
+Step 4180, Loss: 1.4230, LR: 7.22e-05
+Step 4190, Loss: 1.4382, LR: 7.20e-05
+Step 4200, Loss: 1.4619, LR: 7.19e-05
+Step 4210, Loss: 1.4223, LR: 7.17e-05
+Step 4220, Loss: 1.4773, LR: 7.16e-05
+Step 4230, Loss: 1.4265, LR: 7.14e-05
+Step 4240, Loss: 1.4564, LR: 7.13e-05
+Step 4250, Loss: 1.4343, LR: 7.11e-05
+Step 4260, Loss: 1.4523, LR: 7.09e-05
+Step 4270, Loss: 1.4290, LR: 7.08e-05
+Step 4280, Loss: 1.4376, LR: 7.06e-05
+Step 4290, Loss: 1.4364, LR: 7.05e-05
+Step 4300, Loss: 1.4889, LR: 7.03e-05
+Step 4310, Loss: 1.4264, LR: 7.01e-05
+Step 4320, Loss: 1.4190, LR: 7.00e-05
+Step 4330, Loss: 1.4453, LR: 6.98e-05
+Step 4340, Loss: 1.4275, LR: 6.97e-05
+Step 4350, Loss: 1.4246, LR: 6.95e-05
+Step 4360, Loss: 1.4272, LR: 6.93e-05
+Step 4370, Loss: 1.4340, LR: 6.92e-05
+Step 4380, Loss: 1.4567, LR: 6.90e-05
+Step 4390, Loss: 1.4384, LR: 6.89e-05
+Step 4400, Loss: 1.4465, LR: 6.87e-05
+Step 4410, Loss: 1.4477, LR: 6.85e-05
+Step 4420, Loss: 1.4511, LR: 6.84e-05
+Step 4430, Loss: 1.4270, LR: 6.82e-05
+Step 4440, Loss: 1.4336, LR: 6.80e-05
+Step 4450, Loss: 1.4387, LR: 6.79e-05
+Step 4460, Loss: 1.4327, LR: 6.77e-05
+Step 4470, Loss: 1.4455, LR: 6.76e-05
+Step 4480, Loss: 1.4711, LR: 6.74e-05
+Step 4490, Loss: 1.4470, LR: 6.72e-05
+Step 4500, Loss: 1.4393, LR: 6.71e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will willInternationalInternationalInternationalInternationalInternationalInternationalInternationalInternationalInternationalInternationalInternationalInternationalInternational Eventually Eventually Eventually
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will slippery slippery slippery slippery slippery slippery slippery slippery slippery slippery Grain Grain GrainLearn worry worry worry worry worry worry worry worry worry worry worry worry worry worry worry
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is unemployed email email email email email email email email emailcomescomescomescomescomescomescomescomescomescomescomescomescomescomescomescomescomescomescomescomescomescomesthroughput Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Change Con Con Con
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is Bengal Bengal Bengal shooting shooting shooting shooting revolutionize revolutionize revolutionize revolutionize revolutionize revolutionize revolutionize revolutionize revolutionize revolutionize revolutionize revolutionize Calculating:::
+
+=== End of Samples ===
+
+Step 4510, Loss: 1.4389, LR: 6.69e-05
+Step 4520, Loss: 1.4430, LR: 6.67e-05
+Step 4530, Loss: 1.4302, LR: 6.66e-05
+Step 4540, Loss: 1.4366, LR: 6.64e-05
+Step 4550, Loss: 1.4330, LR: 6.62e-05
+Step 4560, Loss: 1.4378, LR: 6.61e-05
+Step 4570, Loss: 1.4452, LR: 6.59e-05
+Step 4580, Loss: 1.4488, LR: 6.57e-05
+Step 4590, Loss: 1.4387, LR: 6.56e-05
+Step 4600, Loss: 1.4397, LR: 6.54e-05
+Step 4610, Loss: 1.4473, LR: 6.53e-05
+Step 4620, Loss: 1.4434, LR: 6.51e-05
+Step 4630, Loss: 1.4378, LR: 6.49e-05
+Step 4640, Loss: 1.4350, LR: 6.48e-05
+Step 4650, Loss: 1.4303, LR: 6.46e-05
+Step 4660, Loss: 1.4349, LR: 6.44e-05
+Step 4670, Loss: 1.4518, LR: 6.43e-05
+Step 4680, Loss: 1.4281, LR: 6.41e-05
+Step 4690, Loss: 1.4218, LR: 6.39e-05
+Step 4700, Loss: 1.4606, LR: 6.37e-05
+Step 4710, Loss: 1.4646, LR: 6.36e-05
+Step 4720, Loss: 1.4399, LR: 6.34e-05
+Step 4730, Loss: 1.4595, LR: 6.32e-05
+Step 4740, Loss: 1.4237, LR: 6.31e-05
+Step 4750, Loss: 1.4659, LR: 6.29e-05
+Step 4760, Loss: 1.4328, LR: 6.27e-05
+Step 4770, Loss: 1.4266, LR: 6.26e-05
+Step 4780, Loss: 1.4374, LR: 6.24e-05
+Step 4790, Loss: 1.4328, LR: 6.22e-05
+Step 4800, Loss: 1.4310, LR: 6.21e-05
+Step 4810, Loss: 1.4369, LR: 6.19e-05
+Step 4820, Loss: 1.4408, LR: 6.17e-05
+Step 4830, Loss: 1.4299, LR: 6.16e-05
+Step 4840, Loss: 1.4504, LR: 6.14e-05
+Step 4850, Loss: 1.4327, LR: 6.12e-05
+Step 4860, Loss: 1.4238, LR: 6.10e-05
+Step 4870, Loss: 1.4393, LR: 6.09e-05
+Step 4880, Loss: 1.4423, LR: 6.07e-05
+Step 4890, Loss: 1.4302, LR: 6.05e-05
+Step 4900, Loss: 1.4309, LR: 6.04e-05
+Step 4910, Loss: 1.4266, LR: 6.02e-05
+Step 4920, Loss: 1.4328, LR: 6.00e-05
+Step 4930, Loss: 1.4387, LR: 5.98e-05
+Step 4940, Loss: 1.4284, LR: 5.97e-05
+Step 4950, Loss: 1.4387, LR: 5.95e-05
+Step 4960, Loss: 1.4259, LR: 5.93e-05
+Step 4970, Loss: 1.4278, LR: 5.92e-05
+Step 4980, Loss: 1.4469, LR: 5.90e-05
+Step 4990, Loss: 1.4291, LR: 5.88e-05
+Step 5000, Loss: 1.4235, LR: 5.86e-05
+
+=== Generating Sample Texts ===
+
+Prompt: The future of artificial intelligence will
+Temperature: 0.7
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will
+
+Prompt: The most important thing in life is
+Temperature: 0.7
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is
+
+Prompt: The best way to learn programming is
+Temperature: 0.7
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is
+
+Prompt: The future of artificial intelligence will
+Temperature: 1.0
+Generated: The future of artificial intelligence will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will will williroiroiro enchanting enchanting enchanting enchanting there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there there
+
+Prompt: The most important thing in life is
+Temperature: 1.0
+Generated: The most important thing in life is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is isPacific deterministic deterministic deterministic evening evening evening evening evening evening evening evening hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof hoof CNS CNS CNS CNS CNS CNS CNS CNS CNS CNS CNS CNS oyster
+
+Prompt: The best way to learn programming is
+Temperature: 1.0
+Generated: The best way to learn programming is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is is isIDA bo bo bo bo bo bo bo bo bo bo bo bo bo bo bo bo bo dependent dependent dependent dependent dependent dependent dependent
+
+=== End of Samples ===
+
+Step 5010, Loss: 1.4379, LR: 5.85e-05
+Step 5020, Loss: 1.4347, LR: 5.83e-05
+Step 5030, Loss: 1.4356, LR: 5.81e-05
+Step 5040, Loss: 1.4321, LR: 5.80e-05
+Step 5050, Loss: 1.4615, LR: 5.78e-05
+Step 5060, Loss: 1.4248, LR: 5.76e-05
+
+Training interrupted! Saving checkpoint...
+Training complete!
