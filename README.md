@@ -1,6 +1,14 @@
 # SmolLMv2 Based Text Generator
 
-### Model Print output
+## Input
+
+The model takes a steamimg input from https://huggingface.co/datasets/HuggingFaceTB/smollm-corpus
+
+    dataset = load_dataset(
+        "HuggingFaceTB/smollm-corpus", "cosmopedia-v2", streaming=True, split="train"
+    )
+
+## Model Print output
 
 ```
 LlamaForCausalLM(
@@ -31,7 +39,7 @@ LlamaForCausalLM(
 )
 ```
 
-### Model Config
+## Model Config
 
 ```
 Config: LlamaConfig {
@@ -67,5 +75,53 @@ Config: LlamaConfig {
   "vocab_size": 49152
 }
 
-Total Parameters: 134,515,008
 ```
+
+## Total Parameters Calculations
+
+### Embedding Layer (embed_tokens)
+
+    Size: 49152 (vocab) × 576 (dim)
+    Parameters: 49152 × 576 = 28,311,552
+
+### LlamaDecoderLayers (30 layers)
+
+1.  **Attention Subtotal = [884,736]**
+
+        Component Calculation Parameters
+        q_proj (576 → 576) 576 × 576 = 331,776
+        k_proj (576 → 192) 576 × 192 = 110,592
+        v_proj (576 → 192) 576 × 192 = 110,592
+        o_proj (576 → 576) 576 × 576 = 331,776
+
+2.  **MLP Subtotal = [2,654,208]**
+
+        gate_proj (576 → 1536) 576 × 1536 = 884,736
+        up_proj (576 → 1536) 576 × 1536 = 884,736
+        down_proj (1536 → 576) 1536 × 576 = 884,736
+
+3.  RMSNorm: **(×2) 576 (weights) × 2 = 1,152**
+4.  Total per Layer: **884,736 + 2,654,208 + 1,152 = 3,540,096**
+5.  For 30 Layers:
+    **3,540,096 × 30 = 106,202,880**
+
+6.  Final LayerNorm (norm)
+    Parameters: 576 (RMSNorm weights) = 576
+
+7.  LM Head (lm_head)
+    Size: 576 → 49152 (shared with embed_tokens)
+    Parameters: 0 (weight-tied with embed_tokens)
+
+**Total Parameters**
+
+- Component Parameters
+  - Embedding 28,311,552
+  - 30 Decoder Layers 106,202,880
+  - Final LayerNorm 576
+
+**Total 134,515,008 (~135M)**
+
+## Traing Logs
+
+- **First Run till 5000 steps :** [base_run_step_5000.log](base_run_step_5000.log)
+- **Next Run :** [next_run_from_step_500.log](next_run_from_step_500.log)
